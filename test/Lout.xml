@@ -1,0 +1,14 @@
+<!-- Test Comment -->
+<tag>
+    <a href='https://github.com/azmr/lout'>
+        Lout GitHub page
+    </a>
+    <p>
+        Some text
+        <br />
+        Some more text
+    </p>
+    <!-- Test... 
+Multiline...
+Comment -->
+</tag>
