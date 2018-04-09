@@ -22,6 +22,7 @@ int main()
 		LoutComment(XML, "Test... \nMultiline...\nComment");
 		LoutPop(XML);
 
+		LoutFinish(XML);
 		LoutFileClose(XML);
 		if(Err) { fprintf(stderr, "%d errors while exporting!\n", Err); }
 
